@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"blockchain","l":"Block"},{"p":"blockchain","l":"BlockChain"},{"p":"common","l":"FormattedSystemOut"},{"p":"blockchain","l":"MinerNode"},{"p":"blockchain","l":"MinerNode.MiningThread"}];updateSearchResults();
